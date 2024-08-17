@@ -1,2 +1,0 @@
-# tarea
-tarea en clases 
